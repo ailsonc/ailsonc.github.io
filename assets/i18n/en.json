@@ -1,0 +1,35 @@
+{
+	"navbar": {
+		"home": "Home",
+		"resume": "Resume",
+		"contact": "Contact"
+	},
+	"resume": {
+		"title": "Resume",
+		"education": "Education",
+		"employment": "Employment",
+		"professionalDevelopment": "Professional Development",
+		"certificates": "Certificates",
+		"languageSkill": "Language  Skill"
+	},
+	"contact": {
+		"title": "Contact Us",
+		"letsKeepInTouch": "Let's Keep in Touch",
+		"enteryourName": "Enter your Name",
+		"company": "Company",
+		"enterYourEmailAddress": "Enter Your Email address",
+		"enterYourPhoneNumber": "Enter your phone Number",
+		"writeYourMessage": "Write your message",
+		"name": "Name",
+		"address": "Address",
+		"phone": "Phone",
+		"email": "Email"
+	},
+	"message": {
+		"success": "Success",
+		"error": "Error",
+		"sendingContactSuccessfully": "Sending contact successfully",
+		"errorSendingContact": "Error sending contact"
+	}
+	
+}

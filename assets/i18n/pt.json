@@ -1,0 +1,34 @@
+{
+	"navbar": {
+		"home": "Home",
+		"resume": "Resumo",
+		"contact": "Contato"
+	},
+	"resume": {
+		"title": "Currículo",
+		"education": "Educação",
+		"employment": "Empregos",
+		"professionalDevelopment": "Desenvolvimento profissional",
+		"certificates": "Certificados",
+		"languageSkill": "Habilidade linguística"
+	},
+	"contact": {
+		"title": "Contate-Nos",
+		"letsKeepInTouch": "Vamos manter contato",
+		"enteryourName": "Digite seu nome",
+		"company": "Empresa",
+		"enterYourEmailAddress": "Insira o seu endereço de email",
+		"enterYourPhoneNumber": "Digite o seu número de telefone",
+		"writeYourMessage": "Escreva sua mensagem",
+		"name": "Nome",
+		"address": "Endereço",
+		"phone": "telefone",
+		"email": "O email"
+	},
+	"message": {
+		"success": "Sucesso",
+		"error": "Erro",
+		"sendingContactSuccessfully": "Enviando contato com sucesso",
+		"errorSendingContact": "Erro ao enviar contato"
+	}
+}
